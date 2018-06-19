@@ -3,6 +3,7 @@
 Repositório do grupo de estudos sobre SAP do [Training Center](https://training-center.github.io).
 
 <p align="center">
+  <img src="assets/sap-logo.png" alt="Logo da SAP">
   <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
 </p>
 
